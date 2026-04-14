@@ -1,4 +1,7 @@
 # 🤖 AI Personal Assistant (Flask + Groq)
+
+## 🌐 Live Demo
+https://ai-personal-assistant-nhnl.onrender.com
 <img width="1883" height="893" alt="Screenshot 2026-04-14 200442" src="https://github.com/user-attachments/assets/855be82d-eaff-4c36-945b-0f27b6f69291" />
 
 A simple AI-powered web application built using Flask that can:
