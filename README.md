@@ -23,17 +23,17 @@ Powered by Groq LLM API.
 
 ## Setup
 
-1. Clone the repo:
+**1. Clone the repo:**<br>
 git clone https://github.com/ishu2293/AI_Personal_Assistant.git
 cd AI_Personal_Assistant
 
-2. Install dependencies:
+**2. Install dependencies:**<br>
 pip install -r requirements.txt
 
-3. Create .env file:
+**3. Create .env file:**<br>
 API_Key_GROQ=your_api_key_here
 
-4. Run the app:
+**4. Run the app:**<br>
 python main.py
 
 <img width="1049" height="904" alt="Screenshot 2026-04-15 000426" src="https://github.com/user-attachments/assets/c3345f84-59c6-4051-a55c-a586c608fa0c" />
